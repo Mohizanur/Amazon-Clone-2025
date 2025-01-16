@@ -18,7 +18,7 @@ export default function CartNotification() {
           className="fixed bottom-4 right-4 bg-green-500 text-white p-4 rounded-lg shadow-lg"
         >
           <p className="font-semibold">Added to Cart!</p>
-          <p className="text-sm">{lastAddedItem.name}</p>
+          <p className="text-sm">{lastAddedItem.title}</p>
         </motion.div>
       )}
     </AnimatePresence>

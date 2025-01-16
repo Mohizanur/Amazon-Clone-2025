@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import Image from "next/image";
 
 const categories = [
   { id: 1, name: "Electronics", image: "/categories/electronics.jpg" },

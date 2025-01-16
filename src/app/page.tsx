@@ -1,4 +1,3 @@
-import Image from "next/image";
 import ProductGrid from "@/components/products/ProductGrid";
 import Hero from "@/components/home/Hero";
 import FeaturedCategories from "@/components/home/FeaturedCategories";
